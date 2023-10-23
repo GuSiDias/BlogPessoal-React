@@ -1,6 +1,5 @@
 
 import './App.css';
-import { useState } from 'react';
 import { ToastContainer } from 'react-toastify';
 import Navbar from './components/navbar/Navbar';
 import Footer from './components/footer/Footer';
